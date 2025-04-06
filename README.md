@@ -40,4 +40,4 @@ Focused on writing clean, efficient code and solving logic-intensive problems. I
   • Opportunities to learn, grow, and maybe break things (but fix them later).
   
 _Let’s just say I like writing code that works, and if it doesn’t—I learn why.
-I aim to create things that work well—and understand why they work the way they do._
+I aim to create things that work well—and understand why they work the way they do._ 
